@@ -58,9 +58,15 @@ Each chart includes an **executive PDF report export button**, containing:
 
 ---
 
-## 🌐 Live Dashboard
+## 🖼️ Dashboard Screenshots
 
-You can view the published dashboard at:
+Preview images of the generated charts are available in the repository as PNG files. These screenshots show real outputs produced by the dashboard using SIES enrollment data.
+
+---
+
+## 🌐 Dashboard Mockup
+
+You can view the dashboard interface mockup at:
 👉 [https://diegoevans2-arch.github.io/Dashboard-Benchmark-SIES/Dashboard_Benchmark_SIES.html](https://diegoevans2-arch.github.io/Dashboard-Benchmark-SIES/Dashboard_Benchmark_SIES.html)
 
-> *Note: in the published version, Plotly charts retain interactivity (zoom, hover, legend), but filters and buttons require an active kernel to function.*
+> *Note: this is a static mockup showing the dashboard layout and filters only. It does not include interactive charts, as these require an active Jupyter kernel to run. For chart previews, see the PNG screenshots available in this repository.*
