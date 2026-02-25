@@ -61,6 +61,6 @@ Each chart includes an **executive PDF report export button**, containing:
 ## 🌐 Live Dashboard
 
 You can view the published dashboard at:
-👉 [https://tu-usuario.github.io/tu-repo/dashboard_sies.html](https://tu-usuario.github.io/tu-repo/dashboard_sies.html)
+👉 [https://diegoevans2-arch.github.io/Dashboard-Benchmark-SIES/Dashboard_Benchmark_SIES.html](https://diegoevans2-arch.github.io/Dashboard-Benchmark-SIES/Dashboard_Benchmark_SIES.html)
 
 > *Note: in the published version, Plotly charts retain interactivity (zoom, hover, legend), but filters and buttons require an active kernel to function.*
